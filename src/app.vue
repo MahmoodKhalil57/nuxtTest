@@ -16,6 +16,6 @@ body{
 
 <template>
   <div class="cleanup">
-    <div>Yoo</div>
+    <TestBtn>Yoo</TestBtn>
   </div>
 </template>
